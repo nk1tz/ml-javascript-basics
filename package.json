@@ -1,0 +1,12 @@
+{
+  "name": "ml-js-lg",
+  "version": "1.0.0",
+  "description": "Machine Learning in Javascript Linear Regression",
+  "main": "index.js",
+  "author": "Nathaniel Kitzke",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ml-regression": "^4.4.2"
+  }
+}
